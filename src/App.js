@@ -1,11 +1,10 @@
 import './App.css';
 
-function App() {
+export default function App() {
+
   return (
-    <div className="App">
-      <h1>Hello, word!</h1>      
+    <div className='app'>
+      
     </div>
   );
-}
-
-export default App;
+};
